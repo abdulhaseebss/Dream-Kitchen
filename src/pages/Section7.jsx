@@ -125,7 +125,7 @@ const Section7 = () => {
 
           <Button
             backLink="/sec6"
-            nextLink="/sec8"
+            nextLink="/minor"
           /> : ""
         }
       </div>

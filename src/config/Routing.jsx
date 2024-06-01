@@ -31,6 +31,9 @@ import HeroSection2 from '../pages/HeroSection2'
 import '../App.css';
 import TimeFrame from '../pages/TimeFrame'
 import FdaProcess from '../pages/FdaProcess'
+import Minor from '../pages/Minor'
+import Major from '../pages/Major'
+import UpScale from '../pages/UpScale'
 
 const Routing = () => {
   return (
@@ -45,6 +48,9 @@ const Routing = () => {
                 <Route path='/sec5' element={<Section5/>}/>
                 <Route path='/sec6' element={<Section6/>}/>
                 <Route path='/sec7' element={<Section7/>}/>
+                <Route path='/minor' element={<Minor/>}/>
+                <Route path='/major' element={<Major/>}/>
+                <Route path='/upScale' element={<UpScale/>}/>
                 <Route path='/sec8' element={<Section8/>}/>
                 <Route path='/sec9' element={<Section9/>}/>
                 <Route path='/sec10' element={<Section10/>}/>

@@ -48,7 +48,7 @@ const TimeFrame = () => {
          </div>
           </div>
           <div className='flex justify-center '>
-       <div className='absolute bottom-0  flex gap-14 pb-5'>
+       <div className='absolute bottom-[-8px] flex gap-14 pb-5'>
         <div className='flex gap-14 max-[600px]:mt-5'>
                     <Link to={"/sec20"}><button className='text-xl bg-[#c4c9c6] text-black p-2 px-5 hover:bg-gray-300 transition-all rounded-full'><span>{"<"}</span> Back</button></Link>
                     <Link to={"/sec22"}><button className='text-xl bg-[#000] text-white p-2 px-5 hover:bg-[#408152] transition-all rounded-full'>Next<span>{">"}</span></button></Link>
