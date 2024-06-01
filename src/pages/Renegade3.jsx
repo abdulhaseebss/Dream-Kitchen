@@ -16,7 +16,7 @@ const Renegade3 = () => {
                     <p className='text-3xl font-bold'>its time you treated yourself to the best remodeling experience </p>
                 </div>
 
-                <button className='text-xl bg-white text-black p-2 px-5 hover:bg-gray-300 transition-all rounded-full'>The End </button>
+                <button className='text-xl bg-white text-black p-2 px-5 hover:bg-gray-300 transition-all rounded-full'><span>{"<"}</span> The End <span>{">"}</span></button>
             </div>
 
         </div>
