@@ -1,0 +1,25 @@
+.bgImage{
+    background-image: url('./assets/bg.jpg');
+  }
+  
+  
+  ._sec_9_main{
+    background-image: url("./assets/sec8.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  ._sec_10_main{
+    background-image: url("./assets/sec9.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .bg-section20 {
+    background-image: url("./assets/card5.webp"), linear-gradient(to bottom #54a96ab3, #54a96ab3);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }

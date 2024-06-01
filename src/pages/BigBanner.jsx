@@ -28,7 +28,7 @@ const BigBanner = () => {
       </div>
       <div className='flex justify-center '>
       <div className='absolute bottom-0  flex gap-14 '>
-        <Link to={"/bigBanner"}>
+        <Link to={"/sec24"}>
           <button className='text-xl bg-white text-black mb-5 p-2 px-5 hover:bg-gray-300 transition-all rounded-full'>
             <span>{"<"}</span> Back
           </button>
